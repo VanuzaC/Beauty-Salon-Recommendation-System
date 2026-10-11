@@ -83,4 +83,7 @@ The TensorFlow model itself is not retrained from a single feedback event. Inste
 
 ## AI-assisted development disclosure
 
-AI assistance was used to review the existing project and implement the interaction-driven feedback extension. The AI-assisted changes include the feedback prompt and menu in `app.py`, the `save_feedback()` and `apply_feedback()` functions in `model.py`, and the related documentation in this README. The original neural collaborative-filtering architecture, service catalog, interaction dataset, train/test evaluation, cold-start logic, and saved-model workflow were preserved.
+AI assistance was used to review examine the existing application;
+Improve app.py;
+Expand the functions and reorganize the data in model.py;
+The original neural collaborative-filtering architecture, service catalog, interaction dataset, train/test evaluation, cold-start logic, and saved-model workflow were preserved.
